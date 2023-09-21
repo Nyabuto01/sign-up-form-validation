@@ -1,0 +1,35 @@
+body{
+    background-color: #fff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.container{
+    background-color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    height: 500px;
+    width: 300px;
+}
+.name1{
+    height: 500px;
+    width: 300px;
+}
+.name{
+    width: 90%;
+    height: 35px;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    text-align: center;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: rgb(91, 225, 91);
+    border-radius: 5px;
+    cursor: pointer;
+
+}
